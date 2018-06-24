@@ -1,3 +1,3 @@
 # hello-world
 First repo
-Exiting times, like droping mentos into a jar of coke!
+Exiting times, like dropping mentos into a jar of coke!
